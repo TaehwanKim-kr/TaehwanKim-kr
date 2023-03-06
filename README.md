@@ -35,6 +35,7 @@
 14' Samsung Junior SW Academy - Making(Arduino) 과정 수료
 
 23' 삼성SDS 동계 대학생 S/W 알고리즘 특강 수료
+
 ----------------------------
 ### :green_book:Course history
 23' 삼성전자 DX 부문 동계 대학생 S/W 특강 수강
