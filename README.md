@@ -1,7 +1,7 @@
 # :notes:KimTaeHwan_Profile
 [![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaehwanKim-kr&count_bg=%23D2C5E9&title_bg=%23BB2649&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com) ![Followers](https://img.shields.io/github/followers/TaehwanKimKR?style=social)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=charmant1245)](https://solved.ac/charmant1245/) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=charmant1245)](https://solved.ac/charmant1245/)   ![charmant1245](https://mazandi.herokuapp.com/api?handle=charmant1245&theme=warm)
 
 ![TaeHwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaeHwanKimKR&show_icons=true&theme=tokyonight)
 
@@ -39,7 +39,3 @@
 ----------------------------
 ### :green_book:Course history
 23' 삼성전자 DX 부문 동계 대학생 S/W 특강 수강
-
-----------------------------
-# BaekJoon
-![charmant1245](https://mazandi.herokuapp.com/api?handle=charmant1245&theme=warm)
