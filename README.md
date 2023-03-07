@@ -1,9 +1,9 @@
 # :notes:KimTaeHwan_Profile
-[![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaehwanKim-kr&count_bg=%23D2C5E9&title_bg=%23BB2649&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com) ![Followers](https://img.shields.io/github/followers/TaehwanKim-kr?style=social)
+[![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaehwanKim-kr&count_bg=%23D2C5E9&title_bg=%23BB2649&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com) ![Followers](https://img.shields.io/github/followers/TaehwanKimKR?style=social)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=charmant1245)](https://solved.ac/charmant1245/) 
 
-![TaeHwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaeHwanKim-kr&show_icons=true&theme=tokyonight)
+![TaeHwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaeHwanKimKR&show_icons=true&theme=tokyonight)
 
 # :bulb:Stacks
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
