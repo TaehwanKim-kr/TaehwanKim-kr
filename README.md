@@ -37,12 +37,13 @@
 
 24' HL만도&HL클레무브 Intelligent Vehicle School 1기 수료 예정
 
-----------------------------
+
 ### :green_book:Course history
 23' 삼성전자 DX 부문 동계 대학생 S/W 특강 수강
 
 
 
+----------------------------
 # :arrow_forward:Reference Video  
 ## * Park Distance Project  
 <https://youtu.be/expLzg3E5RQ>
