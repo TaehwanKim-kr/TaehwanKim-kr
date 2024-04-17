@@ -40,3 +40,14 @@
 ----------------------------
 ### :green_book:Course history
 23' 삼성전자 DX 부문 동계 대학생 S/W 특강 수강
+
+# :arrow_forward:Reference Video  
+## Park Distance Project  
+<https://youtu.be/expLzg3E5RQ>
+## LFA Control Project with Carmaker  
+### 후진주차  
+<https://youtu.be/VbUZKuDJk7E>  
+### 전면주차 경로1  
+<https://youtu.be/02DkFWWDiao>  
+### 전면주차 경로2  
+<https://youtu.be/-P_1QQrVSZk>
