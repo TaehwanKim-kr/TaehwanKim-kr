@@ -35,7 +35,7 @@
 
 23' 삼성SDS 동계 대학생 S/W 알고리즘 특강 수료
 
-24' HL만도&HL클레무브 Intelligent Vehicle School 1기 수료 예정
+24' HL만도&HL클레무브 Intelligent Vehicle School 1기 수료
 
 
 ### :green_book:Course history
